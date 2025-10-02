@@ -69,7 +69,3 @@ We welcome contributions of all sizes! SecurePy Check is designed with new contr
 
 **Thank you for your contribution!**
 
-
-Since this is a single-file utility, no complex installation is required.
-
-1. **Clone the Repository:**
